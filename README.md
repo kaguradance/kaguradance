@@ -2,25 +2,38 @@
 
 <div align="center">
 
-<h3>Computer Engineering student from KMITL 💻</h3>
-Fullstack Developer • AI • IoT • Embreded Systems
+<h3>Computer Engineering Student from KMITL 💻</h3>
+
+<strong>Full-Stack Developer • AI • IoT • Embedded Systems</strong>
+
 
 <a href="mailto:pimsirin.suwannabut@gmail.com">Email</a> •
-<a href="http://www.linkedin.com/in/plai-pims" target="_blank" rel="noreferrer">LinkedIn</a> •
+<a href="http://www.linkedin.com/in/plai-pims" target="_blank" rel="noreferrer"> LinkedIn</a> •
 <a href="https://github.com/kaguradance">GitHub</a>
 
 </div>
 
-## 🤝 Connect with Me
-<p align="left">
-  <!-- เพิ่มลิงก์ภายหลังได้ -->
-  <!--
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-  -->
-</p>
+---
 
+## 🚀 Featured Projects
+
+- 🔹 **Softdev-Backend**  
+  Software Process & Backend Development  
+  Focused on structured software development processes and backend design  
+  🔗 https://github.com/kaguradance/Softdev-Backend
+
+- 🔹 **TOC Project**  
+  Web Scraping & Data Processing  
+  Utilized Regular Expressions for pattern matching and text analysis  
+  🔗 https://github.com/kaguradance/TOC-Project
+
+- 🔹 **MUENTIP**  
+  Web Application Development  
+  ASP.NET • C# • MVC Architecture  
+  🔗 https://github.com/kaguradance/MUENTIP
+
+---
+## 🧰 Tech Stack
 
 ## 🧠 Programming Languages
 <p align="left">
@@ -34,6 +47,7 @@ Fullstack Developer • AI • IoT • Embreded Systems
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
 </p>
 
+---
 
 ## 🌐 Web Technologies
 <p align="left">
@@ -43,6 +57,7 @@ Fullstack Developer • AI • IoT • Embreded Systems
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 </p>
 
+---
 
 ## 🗄️ Databases
 <p align="left">
@@ -51,6 +66,7 @@ Fullstack Developer • AI • IoT • Embreded Systems
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 </p>
 
+---
 
 ## 🛠️ Tools & Platforms
 <p align="left">
@@ -60,6 +76,7 @@ Fullstack Developer • AI • IoT • Embreded Systems
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
 
+---
 
 ## ⚙️ Engineering & Others
 <p align="left">
@@ -68,16 +85,7 @@ Fullstack Developer • AI • IoT • Embreded Systems
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/>
 </p>
 
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
-
 ---
 
-⭐️ *Thank you for visiting my profile!*  
+
+⭐️ *Thank you for visiting my profile!*
