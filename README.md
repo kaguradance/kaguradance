@@ -47,7 +47,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
 </p>
 
----
 
 ## 🌐 Web Technologies
 <p align="left">
@@ -57,7 +56,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 </p>
 
----
 
 ## 🗄️ Databases
 <p align="left">
@@ -66,7 +64,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 </p>
 
----
 
 ## 🛠️ Tools & Platforms
 <p align="left">
@@ -76,7 +73,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
 
----
 
 ## ⚙️ Engineering & Others
 <p align="left">
@@ -86,6 +82,15 @@
 </p>
 
 ---
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaguradance&show_icons=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaguradance&layout=compact" />
+</p>
+
+---
 
 ⭐️ *Thank you for visiting my profile!*
